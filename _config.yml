@@ -1,0 +1,31 @@
+# Setup
+title: ''
+# tagline: 
+domain: kopenpgp.com
+url: https://kopenpgp.com
+baseurl: /
+permalink: pretty
+
+# Gems
+plugins:
+  - jekyll-seo-tag
+
+# Optimize Jekyll
+exclude:
+  - .editorconfig
+  - .git
+  - .jekyll-cache
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+navbar_entries:
+  Countermeasures: '/#countermeasures'
+  Paper: '/#paper'
+  'Vulnerability Disclosures': '/#vulnerability-disclosures'
+  Q&A: '/#qa'
