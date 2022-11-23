@@ -44,12 +44,12 @@ If you are a user, see also [What can I do to protect against the attacks?](#wha
 
 
 **_Victory by KO: Attacking OpenPGP Using Key Overwriting_**<br>
-_Lara Bruseghini, Kenneth G. Paterson, and Daniel Huigens._<br>
-To appear in: _Proceedings of ACM Conference
+_Lara Bruseghini, Daniel Huigens, and Kenneth G. Paterson._<br>
+_Proceedings of ACM Conference
 on Computer and Communications Security, Los Angeles, November
-2022._
+2022._ DOI: 10.1145/3548606.3559363.
 
-A pre-print version is available [here](/assets/paper.pdf){:target="_blank"}.
+A pre-print version (with appendices) is available [here](/assets/paper.pdf){:target="_blank"}.
 
 
 ## Vulnerability Disclosures
